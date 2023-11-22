@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/yevhenii-khartaniuk-45b279251/" target="_blank">Yevhenii</a></h1>
+ <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/yevhenii-khartaniuk-45b279251/" target="_blank">Yevhenii</a></h1>
 
 🔭 I’m currently working on something cool!
 
